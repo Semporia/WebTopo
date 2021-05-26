@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" id="Valve_wheel" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="39.672px" height="90px" viewBox="881.673 1629.719 39.672 90" enable-background="new 881.673 1629.719 39.672 90"
+	 xml:space="preserve">
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-1021.4761" y1="-287.7637" x2="-1021.4761" y2="-267.7637" gradientTransform="matrix(1 0 0 -1 1917.0508 1396.957)">
+		<stop  offset="0" style="stop-color:#9B9EA4"/>
+		<stop  offset="0.15" style="stop-color:#B7B8B7"/>
+		<stop  offset="0.5" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.85" style="stop-color:#B7B8B7"/>
+		<stop  offset="1" style="stop-color:#9B9EA4"/>
+	</linearGradient>
+	<rect x="881.673" y="1664.721" fill="url(#SVGID_1_)" width="27.803" height="20"/>
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-1001.6401" y1="-322.7617" x2="-1001.6401" y2="-232.7617" gradientTransform="matrix(1 0 0 -1 1917.0508 1396.957)">
+		<stop  offset="0" style="stop-color:#9B9EA4"/>
+		<stop  offset="0.15" style="stop-color:#B7B8B7"/>
+		<stop  offset="0.5" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.85" style="stop-color:#B7B8B7"/>
+		<stop  offset="1" style="stop-color:#9B9EA4"/>
+	</linearGradient>
+	<rect x="909.476" y="1629.719" fill="url(#SVGID_2_)" width="11.869" height="90"/>
+</g>
+</svg>
