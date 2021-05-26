@@ -1,0 +1,547 @@
+{
+    "title": "马达",
+    "icon": "home",
+    "opened": false,
+    "items": [
+        {
+            "text": "",
+            "icon": "statics/mada/md0.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/mada/md0.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/mada/md1.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/mada/md1.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/mada/md2.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/mada/md2.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/mada/md3.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/mada/md3.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/mada/md4.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/mada/md4.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/mada/md5.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/mada/md5.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/mada/md6.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/mada/md6.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/mada/md7.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/mada/md7.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/mada/md8.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/mada/md8.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/mada/md9.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/mada/md9.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/mada/md10.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/mada/md10.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/mada/md11.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/mada/md11.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/mada/md12.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/mada/md12.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/mada/md13.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/mada/md13.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/mada/md14.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/mada/md14.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/mada/md15.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/mada/md15.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/mada/md16.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/mada/md16.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/mada/md17.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/mada/md17.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/mada/md18.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/mada/md18.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/mada/md19.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/mada/md19.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        }
+    ]
+}

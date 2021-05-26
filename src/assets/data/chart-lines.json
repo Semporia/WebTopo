@@ -1,0 +1,50 @@
+{
+    "grid": {
+        "top": "0%",
+        "left": "0%",
+        "right": "0%",
+        "bottom": "0%"
+      },
+      "xAxis": {
+        "show": false,
+        "min": 0,
+        "max": 1200
+      },
+      "yAxis": {
+        "show": false,
+        "min": 0,
+        "max": 1200
+      },
+      "series": [
+        {
+          "type": "lines",
+          "coordinateSystem": "cartesian2d",
+          "z": 1,
+          "zlevel": 7,
+          "animation": true,
+
+          "effect": {
+            "show": true,
+            "period": 5,
+            "trailLength": 0.71,
+            "symbolSize": 20,
+            "width": 100,
+            "symbol": "circle",
+            "loop": true,
+            "color": "yellow"
+          },
+          "lineStyle": {
+            "type": "solid",
+            "width": 0,
+            "curveness": 0
+          },
+          "data": [
+            {
+              "coords": [
+                [0, 400],
+                [1230, 400]
+              ]
+            }
+          ]
+        }]
+}

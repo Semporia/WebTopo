@@ -1,0 +1,1002 @@
+{
+    "title": "图片",
+    "icon": "home",
+    "opened": false,
+    "items": [
+        {
+            "text": "",
+            "icon": "statics/topo/office/index (9).svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/index (9).svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/office/g73.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/g73.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/office/g01.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/g01.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/office/g02.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/g02.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/office/g03.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/g03.svg",
+                    "animate": " "
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/office/20190701182101_368.png",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 212
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/20190701182101_368.png"
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/office/20190702170803_715.png",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 212
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/20190702170803_715.png",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/office/20190701181428_161.png",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 212
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/20190701181428_161.png",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/office/20190701181354_914.png",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 212
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/20190701181354_914.png",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/office/GD.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 212
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/GD.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/office/20190701181434_604.png",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/20190701181434_604.png",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/office/20190701182105_431.png",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 542,
+                        "h": 212
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/20190701182105_431.png",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/svg/sc01.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/svg/sc01.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/svg/sc02.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/svg/sc02.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/svg/daog2.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/svg/daog2.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/svg/daog3.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/svg/daog3.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/svg/r001.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/svg/r001.svg",
+                    "animate": " "
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/svg/fish2.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/svg/fish2.svg",
+                    "animate": " "
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/svg/fish4.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/svg/fish4.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/svg/zhiwu1.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/svg/zhiwu1.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/svg/ren.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/svg/ren.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/office/chuan.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/chuan.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/office/che.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/che.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/office/che1.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/che1.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/office/fangzi.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/fangzi.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/office/xiang01.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/xiang01.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/office/logo.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/logo.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/office/jiantou.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/jiantou.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/office/jiantou3.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/jiantou3.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        }
+        ,
+        {
+            "text": "",
+            "icon": "statics/topo/office/jiantou01.gif",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/jiantou01.gif",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        } ,
+        {
+            "text": "",
+            "icon": "statics/topo/office/changku02.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/changku02.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        } ,
+        {
+            "text": "",
+            "icon": "statics/topo/office/supermarket.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/supermarket.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        } ,
+        {
+            "text": "",
+            "icon": "statics/topo/office/czhuo.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/czhuo.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/office/jka2.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/jka2.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/office/jq01.png",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/jq01.png",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/office/qiti.png",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/qiti.png",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/topo/office/pct.png",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 142,
+                        "h": 112
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/office/pct.png",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        }
+    ]
+}

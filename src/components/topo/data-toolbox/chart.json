@@ -1,0 +1,184 @@
+{
+  "title": "图表",
+  "icon": "insert_chart",
+  "opened": false,
+  "items": [
+    {
+      "text": "",
+      "icon": "statics/img/curve6.png",
+     
+      "info": {
+        "type": "chart-line",
+        "action": [],
+        "dataBind": {
+          "sn": "",
+          "title": "",
+          "biz": "",
+          "queryParam": {}
+        },
+        "style": {
+          "position": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "backColor": "white",
+          "zIndex": 1
+        }
+      }
+    },
+    {
+      "text": "",
+      "icon": "statics/img/curve2.png",
+    
+      "info": {
+        "type": "chart-line-step",
+        "action": [],
+        "dataBind": {
+          "sn": "",
+          "title": "",
+          "biz": "",
+          "queryParam": {}
+        },
+        "style": {
+          "position": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "backColor": "white",
+          "zIndex": 1
+        }
+      }
+    },
+    {
+      "text": "",
+      "icon": "statics/img/Histogram1.jpg",
+    
+      "info": {
+        "type": "chart-bar",
+        "action": [],
+        "dataBind": {
+          "sn": "",
+          "title": "",
+          "biz": "",
+          "queryParam": {}
+        },
+        "style": {
+          "position": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "backColor": "white",
+          "zIndex": 1
+        }
+      }
+    },
+    {
+      "text": " ",
+      "icon": "statics/img/Piechart2.jpg",
+      "info": {
+        "type": "chart-pie",
+        "action": [],
+        "dataBind": {
+          "sn": "",
+          "title": "",
+          "biz": "",
+          "queryParam": {}
+        },
+        "style": {
+          "position": {
+            "x": 0,
+            "y": 0,
+            "w": 300,
+            "h": 300
+          },
+          "backColor": "white",
+          "zIndex": 1
+        }
+      }
+    },
+    {
+      "text": "",
+      "icon": "statics/img/Meter1.png",
+      "isFontIcon": false,
+      "info": {
+        "type": "chart-gauge",
+        "action": [],
+        "dataBind": {
+          "sn": "",
+          "title": "",
+          "biz": "",
+          "queryParam": {}
+        },
+        "style": {
+          "position": {
+            "x": 0,
+            "y": 0,
+            "w": 300,
+            "h": 300
+          },
+          "backColor": "white",
+          "zIndex": 1
+        }
+      }
+    },
+   
+    {
+      "text": "",
+      "icon": "statics/img/s01.png",
+     
+      "info": {
+        "type": "chart-watera",
+        "action": [],
+        "dataBind": {
+          "sn": "",
+          "title": "",
+          "biz": "",
+          "queryParam": {}
+        },
+        "style": {
+          "position": {
+            "x": 0,
+            "y": 0,
+            "w": 300,
+            "h": 300
+          },
+          "backColor": " ",
+          "zIndex": 1
+        }
+      }
+    },
+    {
+      "text": "",
+      "icon": "statics/img/water.png",
+      "info": {
+        "type": "chart-wsquare",
+        "action": [],
+        "dataBind": {
+          "sn": "",
+          "title": "",
+          "biz": "",
+          "queryParam": {}
+        },
+        "style": {
+          "position": {
+            "x": 0,
+            "y": 0,
+            "w": 300,
+            "h": 300
+          },
+          "backColor": " ",
+          "zIndex": 1
+        }
+      }
+    }
+    
+    
+    
+  ]
+}

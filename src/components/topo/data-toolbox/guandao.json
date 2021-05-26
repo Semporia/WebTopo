@@ -1,0 +1,412 @@
+{
+    "title": "管道",
+    "icon": "home",
+    "opened": false,
+    "items": [
+        {
+            "text": "",
+            "icon": "statics/guandao/gd0.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/guandao/gd0.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/guandao/gd1.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/guandao/gd1.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/guandao/gd2.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/guandao/gd2.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/guandao/gd3.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/guandao/gd3.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/guandao/gd4.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/guandao/gd4.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/guandao/gd5.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/guandao/gd5.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/guandao/gd6.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/guandao/gd6.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/guandao/gd7.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/guandao/gd7.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/guandao/gd8.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/guandao/gd8.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/guandao/gd9.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/guandao/gd9.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/guandao/gd10.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/guandao/gd10.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/guandao/gd11.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/guandao/gd11.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/guandao/gd12.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/guandao/gd12.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/guandao/gd26.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/guandao/gd26.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        },
+        {
+            "text": "",
+            "icon": "statics/guandao/gd25.svg",
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 150,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/guandao/gd25.svg",
+                    "animate": " ",
+                    "animationDuration": ""
+                }
+            }
+        }
+    ]
+}

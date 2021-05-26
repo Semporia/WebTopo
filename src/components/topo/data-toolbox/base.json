@@ -1,0 +1,292 @@
+{
+    "title": "基本",
+    "icon": "payment",
+    "opened": false,
+    "items": [
+        {
+            "text": "文本",
+            "icon": "text_fields",
+            "isFontIcon": true,
+            "info": {
+                "type": "text",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {
+                        "sensor_unit":""
+                    }
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 100,
+                        "h": 30
+                    },
+                    "backColor": "transparent",
+                    "foreColor": "#000000",
+                    "zIndex": 1,
+                    "transform": 0,
+                    "text": "Test",
+                    "textAlign": "center",
+                    "fontSize": 14,
+                    "fontFamily": "Arial"
+                }
+            }
+        },
+        {
+            "text": "图片",
+            "icon": "photo_size_select_actual",
+            "isFontIcon": true,
+            "info": {
+                "type": "image",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 200,
+                        "h": 200
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "transform": 0,
+                    "url": ""
+                }
+            }
+        },
+        {
+            "text": "三角",
+            "icon": "change_history",
+            "isFontIcon": true,
+            "info": {
+                "type": "triangle",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 200,
+                        "h": 200
+                    },
+                    "backColor": "transparent",
+                    "foreColor": "grey",
+                    "zIndex": 1,
+                    "transform": 0,
+                    "animate":" "
+                }
+            }
+        },
+        {
+            "text": "矩形",
+            "icon": "stop",
+            "isFontIcon": true,
+            "info": {
+                "type": "rect",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 100,
+                        "h": 200
+                    },
+                    "backColor": "transparent",
+                    "foreColor": "grey",
+                    "zIndex": 1,
+                    "transform": 0,
+                    "radius": 0,
+                    "animate":" "
+                }
+            }
+        },
+        {
+            "text": "圆",
+            "icon": "fiber_manual_record",
+            "isFontIcon": true,
+            "info": {
+                "type": "circular",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 200,
+                        "h": 200
+                    },
+                    "backColor": "transparent",
+                    "foreColor": "grey",
+                    "zIndex": 1,
+                    "transform": 0
+                }
+            }
+        },
+        {
+            "text": "线条",
+            "icon": "remove",
+            "isFontIcon": true,
+            "info": {
+                "type": "line",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 100,
+                        "y": 100,
+                        "w": 300,
+                        "h": 30
+                    },
+                    "backColor": "transparent",
+                    "foreColor": "grey",
+                    "zIndex": 1,
+                    "transform": 0,
+                    "lineWidth": 2
+                }
+            }
+        },
+        {
+            "text": "箭头",
+            "icon": "arrow_forward",
+            "isFontIcon": true,
+            "info": {
+                "type": "line-arrow",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 100,
+                        "y": 100,
+                        "w": 300,
+                        "h": 80
+                    },
+                    "backColor": "transparent",
+                    "foreColor": "grey",
+                    "zIndex": 1,
+                    "transform": 0,
+                    "lineWidth": 2,
+                    "points": [
+                        {
+                            "x": 0,
+                            "y": 0
+                        },
+                        {
+                            "x": 0,
+                            "y": 80
+                        },
+                        {
+                            "x": 150,
+                            "y": 80
+                        },
+                        {
+                            "x": 150,
+                            "y": 40
+                        },
+                        {
+                            "x": 300,
+                            "y": 40
+                        }
+                    ]
+                }
+            }
+        }
+        ,
+        {
+            "text": "天气",
+            "icon": "cloud",
+            "isFontIcon": true,
+            "info": {
+                "type": "web-weather",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 100,
+                        "y": 100,
+                        "w": 450,
+                        "h": 150
+                    },
+                    "backColor": "transparent",
+                    "foreColor": "grey",
+                    "zIndex": 1,
+                    "transform": 0,
+                    "lineWidth": 2
+                }
+            }
+        }
+        ,
+        {
+            "text": "时间",
+            "icon": "access_time",
+            "isFontIcon": true,
+            "info": {
+                "type": "web-dtime",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 100,
+                        "y": 100,
+                        "w": 182,
+                        "h": 37
+                    },
+                    "backColor": "transparent",
+                    "foreColor": "grey",
+                    "zIndex": 1,
+                    "transform": 0,
+                    "lineWidth": 2
+                   
+                }
+            }
+        }
+       
+
+        
+        
+    ]
+}

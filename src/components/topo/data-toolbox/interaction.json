@@ -1,0 +1,150 @@
+{
+    "title": "交互",
+    "icon": "payment",
+  
+    "items": [
+        {
+            "text": "水管-横向",
+            "icon": "statics/img/gdz3.svg",
+         
+            "info": {
+                "type": "bizier-curve-arrow",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 100,
+                        "y": 100,
+                        "w": 300,
+                        "h": 10
+                    },
+                    "backColor": "transparent",
+                    "foreColor": "rgb(115,222,69)",
+                    "zIndex": 1,
+                    "transform": 0,
+                    "lineWidth": 2,
+                    "points": [
+                        {
+                            "x": 20,
+                            "y": 20
+                        },
+                        {
+                            "x": 20,
+                            "y": 100
+                        },
+                        {
+                            "x": 200,
+                            "y": 100
+                        },
+                        {
+                            "x": 200,
+                            "y": 20
+                        }
+                    ]
+                }
+            }
+            
+        },
+        {
+            "text": "水管-竖",
+            "icon": "statics/img/svg4.png",
+         
+            "info": {
+                "type": "canvas-lines",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 100,
+                        "y": 100,
+                        "w": 30,
+                        "h": 300
+                    },
+                    "backColor": "transparent",
+                    "foreColor": "rgb(115,222,69)",
+                    "zIndex": 1,
+                    "transform": 0,
+                    "lineWidth": 2,
+                    "points": [
+                        {
+                            "x": 20,
+                            "y": 20
+                        },
+                        {
+                            "x": 20,
+                            "y": 100
+                        },
+                        {
+                            "x": 200,
+                            "y": 100
+                        },
+                        {
+                            "x": 200,
+                            "y": 20
+                        }
+                    ]
+                }
+            }
+            
+        },
+        {
+            "text": "历史数据",
+            "icon": "statics/img/historyReport.png",
+            "info": {
+                "type": "web-record",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 100,
+                        "y": 100,
+                        "w": 450,
+                        "h": 380
+                    },
+                    "backColor": "#ffffff",
+                    "foreColor": "#000",
+                    "zIndex": 1,
+                    "transform": 0,
+                    "lineWidth": 2,
+                    "points": [
+                        {
+                            "x": 20,
+                            "y": 20
+                        },
+                        {
+                            "x": 20,
+                            "y": 100
+                        },
+                        {
+                            "x": 200,
+                            "y": 100
+                        },
+                        {
+                            "x": 200,
+                            "y": 20
+                        }
+                    ]
+                }
+            }
+            
+        }
+        
+        
+        
+    ]
+}

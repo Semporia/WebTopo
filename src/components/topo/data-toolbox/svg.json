@@ -1,0 +1,113 @@
+{
+    "title": "SVG控件",
+    "icon": "payment",
+    "opened": false,
+
+    "items": [
+        {
+            "text": "开关",
+            "icon": "statics/topo/svg/switch1.png",
+            "info": {
+                "type": "buttom",
+                "action": [],
+                "dataBind": {
+                    "sn": "",
+                    "title": "",
+                    "biz": "",
+                    "queryParam": {}
+                },
+                "style": {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 100,
+                        "h": 100
+                    },
+                    "backColor": "transparent",
+                    "zIndex": 1,
+                    "url": "statics/topo/svg/on1.svg"
+                }
+            }
+        },
+        {
+        "text": "矩形",
+        "icon": "stop",
+        "isFontIcon": true,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 100,
+                    "h": 100
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "statics/topo/svg/ellipse2.svg"
+            }
+        }
+    },{
+        "text": "动画演示1",
+        "icon": "stop",
+        "isFontIcon": true,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "statics/topo/svg/demo1.svg"
+            }
+        }
+    }
+    ,{
+        "text": "鱼",
+        "icon": "stop",
+        "isFontIcon": true,
+        "info": {
+            "type": "svg-static",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "statics/topo/svg/fish.svg"
+            }
+        }
+        
+    }
+   
+    
+    ]
+}
